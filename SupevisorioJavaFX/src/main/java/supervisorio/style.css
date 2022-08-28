@@ -1,0 +1,8 @@
+.combo-box {
+	-fx-background-color: -color-gray;
+	-fx-text-fill: -color-primary;
+	-fx-cell-size: 2.5em;
+	-fx-font-family: 'Myriad Pro Light';
+	-fx-font-size: 14pt;
+	-fx-padding: -5 -5 -5 -15;
+}
